@@ -1,12 +1,14 @@
 
 package tarjetasbancarias;
 
-
+import java.util.Scanner;
 public class TarjetasBancarias {
-
+static Scanner scanner = new Scanner (System.in);
    
     public static void main(String[] args) {
-        // TODO code application logic here
+       ClaseHija nombre new ClaseHija();
+        
+        
     }
     
 }
